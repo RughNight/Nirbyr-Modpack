@@ -1,3 +1,5 @@
 # Nirbyr-Modpack
 
-The v2 of the readme, wait no, now it's the V3
+~~The v2 of the readme, wait no, now it's the V3~~
+
+We're now at the V4
